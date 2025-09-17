@@ -16,21 +16,6 @@ To showcase interactivity with JavaScript for improved user engagement.
 
 To prepare the project for deployment on a live server (GitHub Pages / Netlify / Vercel).
 
-📂 Project Structure
-Elim-Group-of-Schools/
-│── index.html        # Homepage
-│── about.html        # About Us page
-│── academics.html    # Academics page
-│── contact.html      # Contact page
-│
-│── Styles/
-│   └── style.css     # Main stylesheet
-│
-│── Scripts/
-│   └── script.js     # JavaScript for interactivity
-│
-└── README.md         # Documentation
-
 🌟 Features
 
 Homepage: Introduction to the school with hero section and call-to-action.
