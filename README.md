@@ -1,90 +1,95 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+📘 Elim Group of Schools Website
+📖 Project Overview
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+This project is a multi-page responsive website developed for Elim Group of Schools, aligning with the UN Sustainable Development Goal (SDG) 4: Quality Education.
+The website provides structured information about the school, including its mission, academics, and progress, while ensuring accessibility and responsiveness across devices.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+🎯 Objectives
 
----
+To design and implement a multi-page responsive website using HTML5, CSS3, and JavaScript.
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+To demonstrate the application of semantic web development principles.
 
-Before you write any code, take time to plan:
+To integrate responsive design techniques ensuring usability across desktop, tablet, and mobile devices.
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+To showcase interactivity with JavaScript for improved user engagement.
 
-**Goal:** Show intentional structure and user journey across the site.
+To prepare the project for deployment on a live server (GitHub Pages / Netlify / Vercel).
 
----
+📂 Project Structure
+Elim-Group-of-Schools/
+│── index.html        # Homepage
+│── about.html        # About Us page
+│── academics.html    # Academics page
+│── contact.html      # Contact page
+│
+│── Styles/
+│   └── style.css     # Main stylesheet
+│
+│── Scripts/
+│   └── script.js     # JavaScript for interactivity
+│
+└── README.md         # Documentation
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+🌟 Features
 
-Using your plan, begin building:
+Homepage: Introduction to the school with hero section and call-to-action.
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+About Us: History, vision, mission, values, and school milestones.
 
-Each page should:
+Academics: Overview of the different curricula offered (British System, IGCSE, National Curriculum, etc.).
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+Contact Page: A simple form and details for communication.
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+Responsive Navigation: Includes a hamburger menu for small screens.
 
----
+Scroll Animations: Sections animate into view for better user experience.
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+Consistent Layout: Shared header, navigation bar, and footer across all pages.
 
-Before deployment, refactor your project to follow production-friendly practices:
+🛠️ Technologies Used
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+HTML5 → semantic and accessible content structure.
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+CSS3 → styling, responsive grid layouts, animations, and design consistency.
 
----
+JavaScript (ES6) → dynamic navigation toggle and scroll-triggered animations.
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+📌 Learning Outcomes
 
-Once your project is complete, choose a method to **host your site online**.
+By completing this project, the following skills were demonstrated:
 
-You can use:
+Planning and structuring a multi-page website.
 
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
+Applying semantic HTML5 tags to improve accessibility.
 
-Deploy your project and confirm that:
+Creating a responsive design adaptable to different devices.
 
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
+Implementing JavaScript interactivity for improved navigation.
 
-**Goal:** Publish your work online and make it accessible to the world.
+Organizing code and assets using best practices.
 
----
+Preparing and documenting a project for deployment.
 
-## Deliverables
+🌍 Alignment with SDG 4: Quality Education
 
-1. A GitHub repository containing:
+This website contributes to SDG 4: Quality Education by:
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+Providing clear, accessible information about Elim Group of Schools and its academic programs.
 
----
+Showcasing diverse curricula such as British System, IGCSE, and National Curriculum, promoting global standards in education.
 
-## Outcome
+Serving as a platform to highlight the school’s progress, mission, and values, ensuring transparency and inclusivity.
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+Demonstrating how technology can be leveraged to improve access to educational resources and communication.
+
+🚀 Deployment
+
+The project will be deployed on GitHub Pages / Netlify / Vercel.
+Deployment ensures that the site is:
+
+Accessible on desktop and mobile.
+
+Fully functional with working navigation and interactivity.
+
+Hosted with a shareable live link.
