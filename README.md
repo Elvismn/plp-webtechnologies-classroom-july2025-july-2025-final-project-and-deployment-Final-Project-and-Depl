@@ -78,3 +78,11 @@ Accessible on desktop and mobile.
 Fully functional with working navigation and interactivity.
 
 Hosted with a shareable live link.
+
+The live link on github pages is :
+
+https://elvismn.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+
+The website is also live at Neltify:
+
+https://elimgroupofschools.netlify.app/
