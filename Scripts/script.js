@@ -71,6 +71,7 @@ window.addEventListener("load", handleScroll);
     startAuto();
   }
 
+  
   // init
   update();
   startAuto();
