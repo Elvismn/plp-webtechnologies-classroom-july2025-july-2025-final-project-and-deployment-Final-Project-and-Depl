@@ -1,3 +1,7 @@
+/* Apply Comic Sans MS to the entire website */
+* {
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
 /* Reset & Global */
 * {
   margin: 0;
