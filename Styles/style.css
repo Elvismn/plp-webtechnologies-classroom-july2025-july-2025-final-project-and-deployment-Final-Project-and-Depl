@@ -28,7 +28,7 @@ ul {
 .btn {
   display: inline-block;
   padding: 10px 20px;
-  background: #0077cc;
+  background: #a55f03;
   color: #fff;
   border-radius: 5px;
   transition: background 0.3s ease;
@@ -40,7 +40,7 @@ ul {
 
 /* Header */
 header {
-  background: #004080;
+  background: #a55f03;
   color: #fff;
   display: flex;
   justify-content: space-between;
@@ -160,7 +160,7 @@ header {
 
 /* Footer */
 footer {
-  background: #004080;
+  background: #a55f03;
   color: #fff;
   text-align: center;
   padding: 15px;
@@ -250,7 +250,7 @@ footer {
 }
 
 .contact-section button {
-  background: #3498db;
+  background: #a55f03;
   color: white;
   border: none;
   padding: 14px;
